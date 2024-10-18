@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Текстовые Сериалы</title>
+  <%= csrf_meta_tags %>
+  <%= csp_meta_tag %>
+  <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <nav class="nav">
+        <ul class="nav-list">
+          <li class="nav-item"><%= link_to "Главная", root_path, class: "nav-link #{current_page?(root_path) ? 'active' : ''}" %></li>
+          <li class="nav-item"><%= link_to "Лента", news_path, class: "nav-link #{current_page?(news_path) ? 'active' : ''}" %></li>
+          <li class="nav-item"><%= link_to "Сериалы", shows_path, class: "nav-link #{current_page?(shows_path) ? 'active' : ''}" %></li>
+          <li class="nav-item"><%= link_to "Авторы", authors_path, class: "nav-link #{current_page?(authors_path) ? 'active' : ''}" %></li>
+          <li class="nav-item"><%= link_to "Популярное", popular_path, class: "nav-link #{current_page?(popular_path) ? 'active' : ''}" %></li>
+          <li class="nav-item"><%= link_to "Личный кабинет", account_path, class: "nav-link #{current_page?(account_path) ? 'active' : ''}" %></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main class="main">
+    <div class="container">
+      <%= yield %>
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="container">
+      <p> NaPiSaNo PROD &copy; 24</p>
+    </div>
+  </footer>
+</body>
+</html>

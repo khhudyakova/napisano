@@ -1,0 +1,2051 @@
+Started GET "/" for ::1 at 2024-10-16 19:30:08 +0300
+  [1m[35m (0.7ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY) /*application='Napisano'*/[0m
+  [1m[35m (0.2ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL) /*application='Napisano'*/[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Napisano'*/[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.7ms | GC: 0.0ms)
+Completed 200 OK in 157ms (Views: 9.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2024-10-16 19:30:56 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | GC: 0.0ms)
+Completed 200 OK in 68ms (Views: 0.5ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2024-10-16 19:36:38 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | GC: 0.0ms)
+Completed 200 OK in 108ms (Views: 0.5ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2024-10-16 19:37:02 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | GC: 0.0ms)
+Completed 200 OK in 68ms (Views: 0.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 01:04:40 +0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC /*application='Napisano'*/[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.6ms | GC: 0.0ms)
+Completed 200 OK in 163ms (Views: 7.6ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.9ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 14:12:09 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.8ms | GC: 0.0ms)
+Completed 200 OK in 77ms (Views: 3.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 14:12:10 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | GC: 0.0ms)
+Completed 200 OK in 70ms (Views: 0.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 14:12:12 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | GC: 0.0ms)
+Completed 200 OK in 72ms (Views: 0.5ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 14:33:04 +0300
+  
+ArgumentError (Missing :controller key on routes definition, please check your routes.):
+  
+config/routes.rb:2:in `block in <main>'
+config/routes.rb:1:in `<main>'
+Started GET "/favicon.ico" for ::1 at 2024-10-18 14:33:05 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/" for ::1 at 2024-10-18 14:33:44 +0300
+  
+ArgumentError (Missing :controller key on routes definition, please check your routes.):
+  
+config/routes.rb:14:in `block in <main>'
+config/routes.rb:1:in `<main>'
+Started GET "/" for ::1 at 2024-10-18 14:34:15 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.6ms | GC: 0.0ms)
+Completed 200 OK in 72ms (Views: 1.3ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 14:34:17 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/alinagabueva/.asdf/installs/ruby/3.3.5/lib/ruby/gems/3.3.0/gems/railties-8.0.0.beta1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | GC: 0.0ms)
+Completed 200 OK in 79ms (Views: 0.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 14:35:52 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 16.5ms | GC: 0.3ms)
+Completed 200 OK in 125ms (Views: 18.3ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 1.3ms)
+
+
+Started GET "/assets/application-8b441ae0.css" for ::1 at 2024-10-18 14:35:52 +0300
+Started GET "/assets/application-bfcdf840.js" for ::1 at 2024-10-18 14:35:52 +0300
+Started GET "/assets/turbo.min-fae85750.js" for ::1 at 2024-10-18 14:35:52 +0300
+Started GET "/assets/controllers/hello_controller-708796bd.js" for ::1 at 2024-10-18 14:35:53 +0300
+Started GET "/assets/controllers/index-ee64e1f1.js" for ::1 at 2024-10-18 14:35:53 +0300
+Started GET "/assets/stimulus.min-4b1e420e.js" for ::1 at 2024-10-18 14:35:53 +0300
+Started GET "/assets/stimulus-loading-1fc53fe7.js" for ::1 at 2024-10-18 14:35:53 +0300
+Started GET "/assets/controllers/application-3affb389.js" for ::1 at 2024-10-18 14:35:53 +0300
+Started GET "/" for ::1 at 2024-10-18 14:37:36 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 24.2ms | GC: 0.6ms)
+Completed 200 OK in 93ms (Views: 25.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.6ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 14:42:26 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 1.0ms | GC: 0.6ms)
+  Rendered layout layouts/application.html.erb (Duration: 4.5ms | GC: 0.6ms)
+Completed 500 Internal Server Error in 70ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.6ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `лентата_path' for an instance of #<Class:0x00000001287b7590>)
+Caused by: NameError (undefined local variable or method `лентата_path' for an instance of #<Class:0x00000001287b7590>)
+
+Information for: ActionView::Template::Error (undefined local variable or method `лентата_path' for an instance of #<Class:0x00000001287b7590>):
+    30:       <nav class="nav">
+    31:         <ul class="nav-list">
+    32:           <li class="nav-item"><%= link_to "Главная", root_path, class: "nav-link" %></li>
+    33:           <li class="nav-item"><%= link_to "Лента", лентата_path, class: "nav-link" %></li>
+    34:           <li class="nav-item"><%= link_to "Сериалы", сериалы_path, class: "nav-link" %></li>
+    35:           <li class="nav-item"><%= link_to "Авторы", авторы_path, class: "nav-link" %></li>
+    36:           <li class="nav-item"><%= link_to "Популярное", популярное_path, class: "nav-link" %></li>
+  
+app/views/layouts/application.html.erb:33
+
+Information for cause: NameError (undefined local variable or method `лентата_path' for an instance of #<Class:0x00000001287b7590>):
+  
+app/views/layouts/application.html.erb:33
+Started GET "/" for ::1 at 2024-10-18 14:43:14 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.9ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 70ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.3ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `лентата_path' for an instance of #<Class:0x00000001295291b0>)
+Caused by: NameError (undefined local variable or method `лентата_path' for an instance of #<Class:0x00000001295291b0>)
+
+Information for: ActionView::Template::Error (undefined local variable or method `лентата_path' for an instance of #<Class:0x00000001295291b0>):
+    30:       <nav class="nav">
+    31:         <ul class="nav-list">
+    32:           <li class="nav-item"><%= link_to "index", root_path, class: "nav-link" %></li>
+    33:           <li class="nav-item"><%= link_to "news", лентата_path, class: "nav-link" %></li>
+    34:           <li class="nav-item"><%= link_to "shows", сериалы_path, class: "nav-link" %></li>
+    35:           <li class="nav-item"><%= link_to "authors", авторы_path, class: "nav-link" %></li>
+    36:           <li class="nav-item"><%= link_to "popular", популярное_path, class: "nav-link" %></li>
+  
+app/views/layouts/application.html.erb:33
+
+Information for cause: NameError (undefined local variable or method `лентата_path' for an instance of #<Class:0x00000001295291b0>):
+  
+app/views/layouts/application.html.erb:33
+Started GET "/" for ::1 at 2024-10-18 14:43:25 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 71ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `лентата_path' for an instance of #<Class:0x00000001295291b0>)
+Caused by: NameError (undefined local variable or method `лентата_path' for an instance of #<Class:0x00000001295291b0>)
+
+Information for: ActionView::Template::Error (undefined local variable or method `лентата_path' for an instance of #<Class:0x00000001295291b0>):
+    30:       <nav class="nav">
+    31:         <ul class="nav-list">
+    32:           <li class="nav-item"><%= link_to "index", root_path, class: "nav-link" %></li>
+    33:           <li class="nav-item"><%= link_to "news", лентата_path, class: "nav-link" %></li>
+    34:           <li class="nav-item"><%= link_to "shows", сериалы_path, class: "nav-link" %></li>
+    35:           <li class="nav-item"><%= link_to "authors", авторы_path, class: "nav-link" %></li>
+    36:           <li class="nav-item"><%= link_to "popular", популярное_path, class: "nav-link" %></li>
+  
+app/views/layouts/application.html.erb:33
+
+Information for cause: NameError (undefined local variable or method `лентата_path' for an instance of #<Class:0x00000001295291b0>):
+  
+app/views/layouts/application.html.erb:33
+Started GET "/" for ::1 at 2024-10-18 14:47:56 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 5.2ms | GC: 2.0ms)
+Completed 500 Internal Server Error in 71ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 2.0ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `лентата_path' for an instance of #<Class:0x0000000127c95b58>)
+Caused by: NameError (undefined local variable or method `лентата_path' for an instance of #<Class:0x0000000127c95b58>)
+
+Information for: ActionView::Template::Error (undefined local variable or method `лентата_path' for an instance of #<Class:0x0000000127c95b58>):
+    26:     <nav class="nav">
+    27:       <ul class="nav-list">
+    28:         <li class="nav-item">index<%= link_to "Главная", root_path, class: "nav-link" %></li>
+    29:         <li class="nav-item">news<%= link_to "Лента", лентата_path, class: "nav-link" %></li>
+    30:         <li class="nav-item">shows<%= link_to "Сериалы", сериалы_path, class: "nav-link" %></li>
+    31:         <li class="nav-item">authors<%= link_to "Авторы", авторы_path, class: "nav-link" %></li>
+    32:         <li class="nav-item">popular<%= link_to "Популярное", популярное_path, class: "nav-link" %></li>
+  
+app/views/layouts/application.html.erb:29
+
+Information for cause: NameError (undefined local variable or method `лентата_path' for an instance of #<Class:0x0000000127c95b58>):
+  
+app/views/layouts/application.html.erb:29
+Started GET "/" for ::1 at 2024-10-18 14:47:57 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 73ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `лентата_path' for an instance of #<Class:0x0000000127c95b58>)
+Caused by: NameError (undefined local variable or method `лентата_path' for an instance of #<Class:0x0000000127c95b58>)
+
+Information for: ActionView::Template::Error (undefined local variable or method `лентата_path' for an instance of #<Class:0x0000000127c95b58>):
+    26:     <nav class="nav">
+    27:       <ul class="nav-list">
+    28:         <li class="nav-item">index<%= link_to "Главная", root_path, class: "nav-link" %></li>
+    29:         <li class="nav-item">news<%= link_to "Лента", лентата_path, class: "nav-link" %></li>
+    30:         <li class="nav-item">shows<%= link_to "Сериалы", сериалы_path, class: "nav-link" %></li>
+    31:         <li class="nav-item">authors<%= link_to "Авторы", авторы_path, class: "nav-link" %></li>
+    32:         <li class="nav-item">popular<%= link_to "Популярное", популярное_path, class: "nav-link" %></li>
+  
+app/views/layouts/application.html.erb:29
+
+Information for cause: NameError (undefined local variable or method `лентата_path' for an instance of #<Class:0x0000000127c95b58>):
+  
+app/views/layouts/application.html.erb:29
+Started GET "/" for ::1 at 2024-10-18 14:51:01 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 69ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `javascript_pack_tag' for an instance of #<Class:0x0000000129b67db0>)
+Caused by: NoMethodError (undefined method `javascript_pack_tag' for an instance of #<Class:0x0000000129b67db0>)
+
+Information for: ActionView::Template::Error (undefined method `javascript_pack_tag' for an instance of #<Class:0x0000000129b67db0>):
+     6:   <%= csp_meta_tag %>
+     7: 
+     8:   <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:   <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10: </head>
+    11: <body>
+    12: 
+  
+app/views/layouts/application.html.erb:9
+
+Information for cause: NoMethodError (undefined method `javascript_pack_tag' for an instance of #<Class:0x0000000129b67db0>):
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for ::1 at 2024-10-18 14:53:26 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 67ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `stylesheets_link_tag' for an instance of #<Class:0x0000000129983210>)
+Caused by: NoMethodError (undefined method `stylesheets_link_tag' for an instance of #<Class:0x0000000129983210>)
+
+Information for: ActionView::Template::Error (undefined method `stylesheets_link_tag' for an instance of #<Class:0x0000000129983210>):
+     5:   <%= csrf_meta_tags %>
+     6:   <%= csp_meta_tag %>
+     7: 
+     8:   <%= stylesheets_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:   <%= javascript_link_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10: </head>
+    11: <body>
+  
+app/views/layouts/application.html.erb:8
+
+Information for cause: NoMethodError (undefined method `stylesheets_link_tag' for an instance of #<Class:0x0000000129983210>):
+  
+app/views/layouts/application.html.erb:8
+Started GET "/" for ::1 at 2024-10-18 14:54:28 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 4.2ms | GC: 2.4ms)
+Completed 500 Internal Server Error in 70ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 2.4ms)
+
+
+  
+ActionView::Template::Error (undefined method `stylesheets_link_tag' for an instance of #<Class:0x0000000127a553c0>)
+Caused by: NoMethodError (undefined method `stylesheets_link_tag' for an instance of #<Class:0x0000000127a553c0>)
+
+Information for: ActionView::Template::Error (undefined method `stylesheets_link_tag' for an instance of #<Class:0x0000000127a553c0>):
+     5:   <%= csrf_meta_tags %>
+     6:   <%= csp_meta_tag %>
+     7: 
+     8:   <%= stylesheets_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:   <%= javascript_link_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10: </head>
+    11: <body>
+  
+app/views/layouts/application.html.erb:8
+
+Information for cause: NoMethodError (undefined method `stylesheets_link_tag' for an instance of #<Class:0x0000000127a553c0>):
+  
+app/views/layouts/application.html.erb:8
+Started GET "/" for ::1 at 2024-10-18 14:55:38 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.7ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 67ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `stylesheets' for an instance of #<Class:0x00000001291a3a40>)
+Caused by: NoMethodError (undefined method `stylesheets' for an instance of #<Class:0x00000001291a3a40>)
+
+Information for: ActionView::Template::Error (undefined method `stylesheets' for an instance of #<Class:0x00000001291a3a40>):
+     5:   <%= csrf_meta_tags %>
+     6:   <%= csp_meta_tag %>
+     7: 
+     8:   <%= stylesheets 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:   <%= javascript 'application', 'data-turbolinks-track': 'reload' %>
+    10: </head>
+    11: <body>
+  
+app/views/layouts/application.html.erb:8
+
+Information for cause: NoMethodError (undefined method `stylesheets' for an instance of #<Class:0x00000001291a3a40>):
+  
+app/views/layouts/application.html.erb:8
+Started GET "/" for ::1 at 2024-10-18 14:56:24 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.3ms | GC: 0.0ms)
+Completed 200 OK in 69ms (Views: 4.3ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.5ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 15:01:16 +0300
+  
+ArgumentError (Invalid route name: 'лентата'):
+  
+config/routes.rb:7:in `block in <main>'
+config/routes.rb:1:in `<main>'
+Started GET "/" for ::1 at 2024-10-18 15:01:45 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.9ms | GC: 0.5ms)
+Completed 200 OK in 76ms (Views: 4.3ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 2.6ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 15:10:37 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 73ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 2.9ms)
+
+
+  
+ActionView::Template::Error (undefined method `javascript_pack_tag' for an instance of #<Class:0x0000000129d2a828>)
+Caused by: NoMethodError (undefined method `javascript_pack_tag' for an instance of #<Class:0x0000000129d2a828>)
+
+Information for: ActionView::Template::Error (undefined method `javascript_pack_tag' for an instance of #<Class:0x0000000129d2a828>):
+     6:   <%= csp_meta_tag %>
+     7: 
+     8:   <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:   <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10: </head>
+    11: <body>
+    12: 
+  
+app/views/layouts/application.html.erb:9
+
+Information for cause: NoMethodError (undefined method `javascript_pack_tag' for an instance of #<Class:0x0000000129d2a828>):
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for ::1 at 2024-10-18 15:15:43 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | GC: 0.2ms)
+Completed 500 Internal Server Error in 68ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <!DOCTYPE html>
+<html>
+<head>
+  <title>Текстовые Сериалы</title>
+  <%= csrf_meta_tags %>
+  <%= csp_meta_tag %>
+
+  <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+  <%= javascript_import_tag 'application' 'data-turbolinks-track': 'reload' %>
+</head>
+<body>
+
+  <header class="header">
+    <div class="container">
+      <nav class="nav">
+        <ul class="nav-list">
+          <li class="nav-item">index<%= link_to "Главная", root_path, class: "nav-link #{current_page?(root_path) ? 'active' : ''}" %>index.html</li>
+          <li class="nav-item">news<%= link_to "Лента", лентата_path, class: "nav-link #{current_page?(лентата_path) ? 'active' : ''}" %>news.html</li>
+          <li class="nav-item">shows<%= link_to "Сериалы", сериалы_path, class: "nav-link #{current_page?(сериалы_path) ? 'active' : ''}" %>shows.html</li>
+          <li class="nav-item">authors<%= link_to "Авторы", авторы_path, class: "nav-link #{current_page?(авторы_path) ? 'active' : ''}" %>authors.html</li>
+          <li class="nav-item">popular<%= link_to "Популярное", популярное_path, class: "nav-link #{current_page?(популярное_path) ? 'active' : ''}" %>popular</li>
+          <li class="nav-item">account<%= link_to "Личный кабинет", личный_кабинет_path, class: "nav-link #{current_page?(личный_кабинет_path) ? 'active' : ''}" %>account</li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main">
+    <div class="container">
+      <%= yield %>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2023 Текстовые Сериалы</p>
+    </div>
+  </footer>
+
+</body>
+</html>
+
+
+)
+Caused by: ActiveSupport::SyntaxErrorProxy (/Users/alinagabueva/Documents/napisano/app/views/layouts/application.html.erb:9: syntax error, unexpected ':', expecting ')'
+...ation' 'data-turbolinks-track': 'reload' ); @output_buffer.s...
+...                              ^
+)
+
+Information for: ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <!DOCTYPE html>
+<html>
+<head>
+  <title>Текстовые Сериалы</title>
+  <%= csrf_meta_tags %>
+  <%= csp_meta_tag %>
+
+  <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+  <%= javascript_import_tag 'application' 'data-turbolinks-track': 'reload' %>
+</head>
+<body>
+
+  <header class="header">
+    <div class="container">
+      <nav class="nav">
+        <ul class="nav-list">
+          <li class="nav-item">index<%= link_to "Главная", root_path, class: "nav-link #{current_page?(root_path) ? 'active' : ''}" %>index.html</li>
+          <li class="nav-item">news<%= link_to "Лента", лентата_path, class: "nav-link #{current_page?(лентата_path) ? 'active' : ''}" %>news.html</li>
+          <li class="nav-item">shows<%= link_to "Сериалы", сериалы_path, class: "nav-link #{current_page?(сериалы_path) ? 'active' : ''}" %>shows.html</li>
+          <li class="nav-item">authors<%= link_to "Авторы", авторы_path, class: "nav-link #{current_page?(авторы_path) ? 'active' : ''}" %>authors.html</li>
+          <li class="nav-item">popular<%= link_to "Популярное", популярное_path, class: "nav-link #{current_page?(популярное_path) ? 'active' : ''}" %>popular</li>
+          <li class="nav-item">account<%= link_to "Личный кабинет", личный_кабинет_path, class: "nav-link #{current_page?(личный_кабинет_path) ? 'active' : ''}" %>account</li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main">
+    <div class="container">
+      <%= yield %>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2023 Текстовые Сериалы</p>
+    </div>
+  </footer>
+
+</body>
+</html>
+
+
+):
+1:    <!DOCTYPE html>
+2:    <html>
+3:    <head>
+4:      <title>Текстовые Сериалы</title>
+5:      <%= csrf_meta_tags %>
+6:      <%= csp_meta_tag %>
+7:    
+8:      <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+9:      <%= javascript_import_tag 'application' 'data-turbolinks-track': 'reload' %>
+10:    </head>
+11:    <body>
+12:    
+13:      <header class="header">
+14:        <div class="container">
+15:          <nav class="nav">
+16:            <ul class="nav-list">
+17:              <li class="nav-item">index<%= link_to "Главная", root_path, class: "nav-link #{current_page?(root_path) ? 'active' : ''}" %>index.html</li>
+18:              <li class="nav-item">news<%= link_to "Лента", лентата_path, class: "nav-link #{current_page?(лентата_path) ? 'active' : ''}" %>news.html</li>
+19:              <li class="nav-item">shows<%= link_to "Сериалы", сериалы_path, class: "nav-link #{current_page?(сериалы_path) ? 'active' : ''}" %>shows.html</li>
+20:              <li class="nav-item">authors<%= link_to "Авторы", авторы_path, class: "nav-link #{current_page?(авторы_path) ? 'active' : ''}" %>authors.html</li>
+21:              <li class="nav-item">popular<%= link_to "Популярное", популярное_path, class: "nav-link #{current_page?(популярное_path) ? 'active' : ''}" %>popular</li>
+22:              <li class="nav-item">account<%= link_to "Личный кабинет", личный_кабинет_path, class: "nav-link #{current_page?(личный_кабинет_path) ? 'active' : ''}" %>account</li>
+23:            </ul>
+24:          </nav>
+25:        </div>
+26:      </header>
+27:    
+28:      <main class="main">
+29:        <div class="container">
+30:          <%= yield %>
+31:        </div>
+32:      </main>
+33:    
+34:      <footer class="footer">
+35:        <div class="container">
+36:          <p>&copy; 2023 Текстовые Сериалы</p>
+37:        </div>
+38:      </footer>
+39:    
+40:    </body>
+41:    </html>
+  
+app/views/layouts/application.html.erb:9: syntax error, unexpected ':', expecting ')'
+
+Information for cause: ActiveSupport::SyntaxErrorProxy (/Users/alinagabueva/Documents/napisano/app/views/layouts/application.html.erb:9: syntax error, unexpected ':', expecting ')'
+...ation' 'data-turbolinks-track': 'reload' ); @output_buffer.s...
+...                              ^
+):
+  
+app/views/layouts/application.html.erb:9: syntax error, unexpected ':', expecting ')'
+Started GET "/" for ::1 at 2024-10-18 15:17:16 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.5ms | GC: 0.1ms)
+Completed 500 Internal Server Error in 68ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+  
+ActionView::Template::Error (undefined method `javascript_import_tag' for an instance of #<Class:0x000000012a0cc9e0>)
+Caused by: NoMethodError (undefined method `javascript_import_tag' for an instance of #<Class:0x000000012a0cc9e0>)
+
+Information for: ActionView::Template::Error (undefined method `javascript_import_tag' for an instance of #<Class:0x000000012a0cc9e0>):
+     6:   <%= csp_meta_tag %>
+     7: 
+     8:   <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:   <%= javascript_import_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10: </head>
+    11: <body>
+    12: 
+  
+app/views/layouts/application.html.erb:9
+
+Information for cause: NoMethodError (undefined method `javascript_import_tag' for an instance of #<Class:0x000000012a0cc9e0>):
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for ::1 at 2024-10-18 15:18:28 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 74ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `javascript_import_tag' for an instance of #<Class:0x000000012a0cc9e0>)
+Caused by: NoMethodError (undefined method `javascript_import_tag' for an instance of #<Class:0x000000012a0cc9e0>)
+
+Information for: ActionView::Template::Error (undefined method `javascript_import_tag' for an instance of #<Class:0x000000012a0cc9e0>):
+     6:   <%= csp_meta_tag %>
+     7: 
+     8:   <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:   <%= javascript_import_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10: </head>
+    11: <body>
+    12: 
+  
+app/views/layouts/application.html.erb:9
+
+Information for cause: NoMethodError (undefined method `javascript_import_tag' for an instance of #<Class:0x000000012a0cc9e0>):
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for ::1 at 2024-10-18 15:18:30 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.0ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 67ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `javascript_import_tag' for an instance of #<Class:0x000000012a0cc9e0>)
+Caused by: NoMethodError (undefined method `javascript_import_tag' for an instance of #<Class:0x000000012a0cc9e0>)
+
+Information for: ActionView::Template::Error (undefined method `javascript_import_tag' for an instance of #<Class:0x000000012a0cc9e0>):
+     6:   <%= csp_meta_tag %>
+     7: 
+     8:   <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:   <%= javascript_import_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10: </head>
+    11: <body>
+    12: 
+  
+app/views/layouts/application.html.erb:9
+
+Information for cause: NoMethodError (undefined method `javascript_import_tag' for an instance of #<Class:0x000000012a0cc9e0>):
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for ::1 at 2024-10-18 15:19:10 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 77ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `javascript_import_tag' for an instance of #<Class:0x000000012a0cc9e0>)
+Caused by: NoMethodError (undefined method `javascript_import_tag' for an instance of #<Class:0x000000012a0cc9e0>)
+
+Information for: ActionView::Template::Error (undefined method `javascript_import_tag' for an instance of #<Class:0x000000012a0cc9e0>):
+     6:   <%= csp_meta_tag %>
+     7: 
+     8:   <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+     9:   <%= javascript_import_tag 'application', 'data-turbolinks-track': 'reload' %>
+    10: </head>
+    11: <body>
+    12: 
+  
+app/views/layouts/application.html.erb:9
+
+Information for cause: NoMethodError (undefined method `javascript_import_tag' for an instance of #<Class:0x000000012a0cc9e0>):
+  
+app/views/layouts/application.html.erb:9
+Started GET "/" for ::1 at 2024-10-18 15:29:24 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.5ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 69ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <!DOCTYPE html>
+<html>
+<head>
+  <title>Текстовые Сериалы</title>
+  <%= csrf_meta_tags %>
+  <%= csp_meta_tag %>
+  <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <nav class="nav">
+        <ul class="nav-list">
+          <li class="nav-item">index<%= link_to "Главная", root_path, class: "nav-link urrent_page#{ 'active' : ''}" %>index_path</li>
+          <li class="nav-item">news<%= link_to "Лента", лента_path, class: "nav-link #{ 'active' : ''}" %>news_path</li>
+          <li class="nav-item">shows<%= link_to "Сериалы", сериалы_path, class: "nav-link #{ 'active' : ''}" %>shows_path</li>
+          <li class="nav-item">authors<%= link_to "Авторы", авторы_path, class: "nav-link #{ 'active' : ''}" %>authors_path</li>
+          <li class="nav-item">popular<%= link_to "Популярное", популярное_path, class: "nav-link #{ 'active' : ''}" %>popular_path</li>
+          <li class="nav-item">account<%= link_to "Личный кабинет", личный_кабинет_path, class: "nav-link #{ 'active' : ''}" %>account_path</li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main class="main">
+    <div class="container">
+      <%= yield %>
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2023 Текстовые Сериалы</p>
+    </div>
+  </footer>
+</body>
+</html>
+)
+Caused by: ActiveSupport::SyntaxErrorProxy (/Users/alinagabueva/Documents/napisano/app/views/layouts/application.html.erb:15: syntax error, unexpected ':', expecting end-of-input or '}'
+...v-link urrent_page#{ 'active' : ''}" ); @output_buffer.safe_...
+...                              ^
+/Users/alinagabueva/Documents/napisano/app/views/layouts/application.html.erb:16: syntax error, unexpected ':', expecting end-of-input or '}'
+... class: "nav-link #{ 'active' : ''}" ); @output_buffer.safe_...
+...                              ^
+/Users/alinagabueva/Documents/napisano/app/views/layouts/application.html.erb:17: syntax error, unexpected ':', expecting end-of-input or '}'
+... class: "nav-link #{ 'active' : ''}" ); @output_buffer.safe_...
+...                              ^
+/Users/alinagabueva/Documents/napisano/app/views/layouts/application.html.erb:18: syntax error, unexpected ':', expecting end-of-input or '}'
+... class: "nav-link #{ 'active' : ''}" ); @output_buffer.safe_...
+...                              ^
+/Users/alinagabueva/Documents/napisano/app/views/layouts/application.html.erb:19: syntax error, unexpected ':', expecting end-of-input or '}'
+... class: "nav-link #{ 'active' : ''}" ); @output_buffer.safe_...
+...                              ^
+/Users/alinagabueva/Documents/napisano/app/views/layouts/application.html.erb:20: syntax error, unexpected ':', expecting end-of-input or '}'
+... class: "nav-link #{ 'active' : ''}" ); @output_buffer.safe_...
+...                              ^
+)
+
+Information for: ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <!DOCTYPE html>
+<html>
+<head>
+  <title>Текстовые Сериалы</title>
+  <%= csrf_meta_tags %>
+  <%= csp_meta_tag %>
+  <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <nav class="nav">
+        <ul class="nav-list">
+          <li class="nav-item">index<%= link_to "Главная", root_path, class: "nav-link urrent_page#{ 'active' : ''}" %>index_path</li>
+          <li class="nav-item">news<%= link_to "Лента", лента_path, class: "nav-link #{ 'active' : ''}" %>news_path</li>
+          <li class="nav-item">shows<%= link_to "Сериалы", сериалы_path, class: "nav-link #{ 'active' : ''}" %>shows_path</li>
+          <li class="nav-item">authors<%= link_to "Авторы", авторы_path, class: "nav-link #{ 'active' : ''}" %>authors_path</li>
+          <li class="nav-item">popular<%= link_to "Популярное", популярное_path, class: "nav-link #{ 'active' : ''}" %>popular_path</li>
+          <li class="nav-item">account<%= link_to "Личный кабинет", личный_кабинет_path, class: "nav-link #{ 'active' : ''}" %>account_path</li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main class="main">
+    <div class="container">
+      <%= yield %>
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2023 Текстовые Сериалы</p>
+    </div>
+  </footer>
+</body>
+</html>
+):
+1:    <!DOCTYPE html>
+2:    <html>
+3:    <head>
+4:      <title>Текстовые Сериалы</title>
+5:      <%= csrf_meta_tags %>
+6:      <%= csp_meta_tag %>
+7:      <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+8:      <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+9:    </head>
+10:    <body>
+11:      <header class="header">
+12:        <div class="container">
+13:          <nav class="nav">
+14:            <ul class="nav-list">
+15:              <li class="nav-item">index<%= link_to "Главная", root_path, class: "nav-link urrent_page#{ 'active' : ''}" %>index_path</li>
+16:              <li class="nav-item">news<%= link_to "Лента", лента_path, class: "nav-link #{ 'active' : ''}" %>news_path</li>
+17:              <li class="nav-item">shows<%= link_to "Сериалы", сериалы_path, class: "nav-link #{ 'active' : ''}" %>shows_path</li>
+18:              <li class="nav-item">authors<%= link_to "Авторы", авторы_path, class: "nav-link #{ 'active' : ''}" %>authors_path</li>
+19:              <li class="nav-item">popular<%= link_to "Популярное", популярное_path, class: "nav-link #{ 'active' : ''}" %>popular_path</li>
+20:              <li class="nav-item">account<%= link_to "Личный кабинет", личный_кабинет_path, class: "nav-link #{ 'active' : ''}" %>account_path</li>
+21:            </ul>
+22:          </nav>
+23:        </div>
+24:      </header>
+25:      <main class="main">
+26:        <div class="container">
+27:          <%= yield %>
+28:        </div>
+29:      </main>
+30:      <footer class="footer">
+31:        <div class="container">
+32:          <p>&copy; 2023 Текстовые Сериалы</p>
+33:        </div>
+34:      </footer>
+35:    </body>
+36:    </html>
+  
+app/views/layouts/application.html.erb:15: syntax error, unexpected ':', expecting end-of-input or '}'
+app/views/layouts/application.html.erb:16: syntax error, unexpected ':', expecting end-of-input or '}'
+app/views/layouts/application.html.erb:17: syntax error, unexpected ':', expecting end-of-input or '}'
+app/views/layouts/application.html.erb:18: syntax error, unexpected ':', expecting end-of-input or '}'
+app/views/layouts/application.html.erb:19: syntax error, unexpected ':', expecting end-of-input or '}'
+app/views/layouts/application.html.erb:20: syntax error, unexpected ':', expecting end-of-input or '}'
+
+Information for cause: ActiveSupport::SyntaxErrorProxy (/Users/alinagabueva/Documents/napisano/app/views/layouts/application.html.erb:15: syntax error, unexpected ':', expecting end-of-input or '}'
+...v-link urrent_page#{ 'active' : ''}" ); @output_buffer.safe_...
+...                              ^
+/Users/alinagabueva/Documents/napisano/app/views/layouts/application.html.erb:16: syntax error, unexpected ':', expecting end-of-input or '}'
+... class: "nav-link #{ 'active' : ''}" ); @output_buffer.safe_...
+...                              ^
+/Users/alinagabueva/Documents/napisano/app/views/layouts/application.html.erb:17: syntax error, unexpected ':', expecting end-of-input or '}'
+... class: "nav-link #{ 'active' : ''}" ); @output_buffer.safe_...
+...                              ^
+/Users/alinagabueva/Documents/napisano/app/views/layouts/application.html.erb:18: syntax error, unexpected ':', expecting end-of-input or '}'
+... class: "nav-link #{ 'active' : ''}" ); @output_buffer.safe_...
+...                              ^
+/Users/alinagabueva/Documents/napisano/app/views/layouts/application.html.erb:19: syntax error, unexpected ':', expecting end-of-input or '}'
+... class: "nav-link #{ 'active' : ''}" ); @output_buffer.safe_...
+...                              ^
+/Users/alinagabueva/Documents/napisano/app/views/layouts/application.html.erb:20: syntax error, unexpected ':', expecting end-of-input or '}'
+... class: "nav-link #{ 'active' : ''}" ); @output_buffer.safe_...
+...                              ^
+):
+  
+app/views/layouts/application.html.erb:15: syntax error, unexpected ':', expecting end-of-input or '}'
+app/views/layouts/application.html.erb:16: syntax error, unexpected ':', expecting end-of-input or '}'
+app/views/layouts/application.html.erb:17: syntax error, unexpected ':', expecting end-of-input or '}'
+app/views/layouts/application.html.erb:18: syntax error, unexpected ':', expecting end-of-input or '}'
+app/views/layouts/application.html.erb:19: syntax error, unexpected ':', expecting end-of-input or '}'
+app/views/layouts/application.html.erb:20: syntax error, unexpected ':', expecting end-of-input or '}'
+Started GET "/" for ::1 at 2024-10-18 15:31:03 +0300
+  
+ArgumentError (Invalid route name: 'лентата_path'):
+  
+config/routes.rb:7:in `block in <main>'
+config/routes.rb:1:in `<main>'
+Started GET "/" for ::1 at 2024-10-18 15:31:17 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.0ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 73ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `лента_path' for an instance of #<Class:0x000000012a404f68>)
+Caused by: NameError (undefined local variable or method `лента_path' for an instance of #<Class:0x000000012a404f68>)
+
+Information for: ActionView::Template::Error (undefined local variable or method `лента_path' for an instance of #<Class:0x000000012a404f68>):
+    13:       <nav class="nav">
+    14:         <ul class="nav-list">
+    15:           <li class="nav-item"><%= link_to "Главная", root_path, class: "nav-link #{current_page?(root_path) ? 'active' : ''}" %></li>
+    16:           <li class="nav-item"><%= link_to "Лента", лента_path, class: "nav-link #{current_page?(лента_path) ? 'active' : ''}" %></li>
+    17:           <li class="nav-item"><%= link_to "Сериалы", сериалы_path, class: "nav-link #{current_page?(сериалы_path) ? 'active' : ''}" %></li>
+    18:           <li class="nav-item"><%= link_to "Авторы", авторы_path, class: "nav-link #{current_page?(авторы_path) ? 'active' : ''}" %></li>
+    19:           <li class="nav-item"><%= link_to "Популярное", популярное_path, class: "nav-link #{current_page?(популярное_path) ? 'active' : ''}" %></li>
+  
+app/views/layouts/application.html.erb:16
+
+Information for cause: NameError (undefined local variable or method `лента_path' for an instance of #<Class:0x000000012a404f68>):
+  
+app/views/layouts/application.html.erb:16
+Started GET "/" for ::1 at 2024-10-18 15:34:20 +0300
+  
+SyntaxError (/Users/alinagabueva/Documents/napisano/config/routes.rb:7: syntax error, unexpected local variable or method, expecting `end' or dummy end
+...ages/news', to: 'pages#news' as: :news
+...                             ^~
+):
+  
+config/routes.rb:7: syntax error, unexpected local variable or method, expecting `end' or dummy end
+Started GET "/" for ::1 at 2024-10-18 15:36:39 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.1ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 70ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `лента_path' for an instance of #<Class:0x0000000129d63718>)
+Caused by: NameError (undefined local variable or method `лента_path' for an instance of #<Class:0x0000000129d63718>)
+
+Information for: ActionView::Template::Error (undefined local variable or method `лента_path' for an instance of #<Class:0x0000000129d63718>):
+    13:       <nav class="nav">
+    14:         <ul class="nav-list">
+    15:           <li class="nav-item"><%= link_to "Главная", root_path, class: "nav-link #{current_page?(root_path) ? 'active' : ''}" %></li>
+    16:           <li class="nav-item"><%= link_to "Лента", лента_path, class: "nav-link #{current_page?(лента_path) ? 'active' : ''}" %></li>
+    17:           <li class="nav-item"><%= link_to "Сериалы", сериалы_path, class: "nav-link #{current_page?(сериалы_path) ? 'active' : ''}" %></li>
+    18:           <li class="nav-item"><%= link_to "Авторы", авторы_path, class: "nav-link #{current_page?(авторы_path) ? 'active' : ''}" %></li>
+    19:           <li class="nav-item"><%= link_to "Популярное", популярное_path, class: "nav-link #{current_page?(популярное_path) ? 'active' : ''}" %></li>
+  
+app/views/layouts/application.html.erb:16
+
+Information for cause: NameError (undefined local variable or method `лента_path' for an instance of #<Class:0x0000000129d63718>):
+  
+app/views/layouts/application.html.erb:16
+Started GET "/" for ::1 at 2024-10-18 15:39:51 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.0ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 69ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.7ms)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `account_path' for an instance of #<Class:0x000000012a0a6d80>)
+Caused by: NameError (undefined local variable or method `account_path' for an instance of #<Class:0x000000012a0a6d80>)
+
+Information for: ActionView::Template::Error (undefined local variable or method `account_path' for an instance of #<Class:0x000000012a0a6d80>):
+    17:           <li class="nav-item"><%= link_to "Сериалы", shows_path, class: "nav-link #{current_page?(shows_path) ? 'active' : ''}" %></li>
+    18:           <li class="nav-item"><%= link_to "Авторы", authors_path, class: "nav-link #{current_page?(authors_path) ? 'active' : ''}" %></li>
+    19:           <li class="nav-item"><%= link_to "Популярное", popular_path, class: "nav-link #{current_page?(popular_path) ? 'active' : ''}" %></li>
+    20:           <li class="nav-item"><%= link_to "Личный кабинет", account_path, class: "nav-link #{current_page?(account_path) ? 'active' : ''}" %></li>
+    21:         </ul>
+    22:       </nav>
+    23:     </div>
+  
+app/views/layouts/application.html.erb:20
+
+Information for cause: NameError (undefined local variable or method `account_path' for an instance of #<Class:0x000000012a0a6d80>):
+  
+app/views/layouts/application.html.erb:20
+Started GET "/" for ::1 at 2024-10-18 15:41:27 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.8ms | GC: 0.5ms)
+Completed 200 OK in 74ms (Views: 4.3ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 1.4ms)
+
+
+Started GET "/assets/application-de393635.css" for ::1 at 2024-10-18 15:41:28 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 15:41:29 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | GC: 0.0ms)
+Completed 200 OK in 71ms (Views: 1.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/pages/shows" for ::1 at 2024-10-18 15:41:30 +0300
+Processing by PagesController#shows as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/shows.html.erb within layouts/application
+  Rendered pages/shows.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | GC: 0.0ms)
+Completed 200 OK in 71ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/authors" for ::1 at 2024-10-18 15:41:32 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | GC: 0.0ms)
+Completed 200 OK in 72ms (Views: 1.6ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/popular" for ::1 at 2024-10-18 15:41:34 +0300
+Processing by PagesController#popular as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/popular.html.erb within layouts/application
+  Rendered pages/popular.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.5ms | GC: 1.9ms)
+Completed 200 OK in 73ms (Views: 3.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 2.3ms)
+
+
+Started GET "/pages/account" for ::1 at 2024-10-18 15:41:34 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 1.6ms | GC: 1.1ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.8ms | GC: 2.0ms)
+Completed 200 OK in 70ms (Views: 4.2ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 2.6ms)
+
+
+Started GET "/pages/account" for ::1 at 2024-10-18 15:43:06 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | GC: 0.0ms)
+Completed 200 OK in 67ms (Views: 3.2ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/popular" for ::1 at 2024-10-18 15:43:13 +0300
+Processing by PagesController#popular as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/popular.html.erb within layouts/application
+  Rendered pages/popular.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | GC: 0.0ms)
+Completed 200 OK in 74ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/authors" for ::1 at 2024-10-18 15:43:13 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | GC: 0.0ms)
+Completed 200 OK in 68ms (Views: 1.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/shows" for ::1 at 2024-10-18 15:43:14 +0300
+Processing by PagesController#shows as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/shows.html.erb within layouts/application
+  Rendered pages/shows.html.erb within layouts/application (Duration: 0.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.0ms | GC: 0.2ms)
+Completed 200 OK in 69ms (Views: 2.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/pages/news" for ::1 at 2024-10-18 15:43:15 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.0ms)
+Completed 200 OK in 75ms (Views: 1.5ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 15:43:15 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | GC: 0.0ms)
+Completed 200 OK in 73ms (Views: 1.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/news" for ::1 at 2024-10-18 15:43:28 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | GC: 0.2ms)
+Completed 200 OK in 73ms (Views: 1.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/pages/shows" for ::1 at 2024-10-18 15:43:29 +0300
+Processing by PagesController#shows as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/shows.html.erb within layouts/application
+  Rendered pages/shows.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.1ms)
+Completed 200 OK in 70ms (Views: 1.5ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.1ms)
+
+
+Started GET "/pages/authors" for ::1 at 2024-10-18 15:43:29 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.0ms)
+Completed 200 OK in 74ms (Views: 1.6ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.1ms)
+
+
+Started GET "/pages/popular" for ::1 at 2024-10-18 15:43:30 +0300
+Processing by PagesController#popular as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/popular.html.erb within layouts/application
+  Rendered pages/popular.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | GC: 0.0ms)
+Completed 200 OK in 74ms (Views: 1.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/account" for ::1 at 2024-10-18 15:43:30 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | GC: 0.4ms)
+Completed 200 OK in 72ms (Views: 1.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.4ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 15:45:54 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.0ms)
+Completed 200 OK in 75ms (Views: 1.6ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/pages/news" for ::1 at 2024-10-18 15:46:01 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.0ms)
+Completed 200 OK in 73ms (Views: 1.5ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/shows" for ::1 at 2024-10-18 15:46:04 +0300
+Processing by PagesController#shows as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/shows.html.erb within layouts/application
+  Rendered pages/shows.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | GC: 0.0ms)
+Completed 200 OK in 74ms (Views: 1.6ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/authors" for ::1 at 2024-10-18 15:46:07 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.0ms)
+Completed 200 OK in 74ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/popular" for ::1 at 2024-10-18 15:46:09 +0300
+Processing by PagesController#popular as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/popular.html.erb within layouts/application
+  Rendered pages/popular.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | GC: 0.0ms)
+Completed 200 OK in 73ms (Views: 1.6ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/account" for ::1 at 2024-10-18 15:46:12 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.0ms)
+Completed 200 OK in 65ms (Views: 1.5ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/account" for ::1 at 2024-10-18 15:53:17 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 0.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | GC: 0.0ms)
+Completed 200 OK in 82ms (Views: 2.1ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/assets/application-e77fbbc5.css" for ::1 at 2024-10-18 15:53:17 +0300
+Started GET "/pages/popular" for ::1 at 2024-10-18 15:53:19 +0300
+Processing by PagesController#popular as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/popular.html.erb within layouts/application
+  Rendered pages/popular.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.0ms)
+Completed 200 OK in 70ms (Views: 1.5ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/authors" for ::1 at 2024-10-18 15:53:20 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.1ms | GC: 0.0ms)
+Completed 200 OK in 66ms (Views: 1.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 15:53:26 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | GC: 0.0ms)
+Completed 200 OK in 68ms (Views: 1.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/news" for ::1 at 2024-10-18 15:53:27 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.0ms)
+Completed 200 OK in 77ms (Views: 1.6ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 2.7ms)
+
+
+Started GET "/pages/shows" for ::1 at 2024-10-18 15:53:28 +0300
+Processing by PagesController#shows as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/shows.html.erb within layouts/application
+  Rendered pages/shows.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.1ms | GC: 0.7ms)
+Completed 200 OK in 73ms (Views: 2.5ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.7ms)
+
+
+Started GET "/pages/authors" for ::1 at 2024-10-18 15:53:29 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.1ms | GC: 0.0ms)
+Completed 200 OK in 66ms (Views: 1.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/popular" for ::1 at 2024-10-18 15:53:30 +0300
+Processing by PagesController#popular as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/popular.html.erb within layouts/application
+  Rendered pages/popular.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.0ms)
+Completed 200 OK in 67ms (Views: 1.6ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.5ms)
+
+
+Started GET "/pages/account" for ::1 at 2024-10-18 15:53:31 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.1ms | GC: 0.0ms)
+Completed 200 OK in 72ms (Views: 1.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 15:53:49 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | GC: 0.0ms)
+Completed 200 OK in 75ms (Views: 1.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/news" for ::1 at 2024-10-18 15:53:50 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | GC: 0.4ms)
+Completed 200 OK in 72ms (Views: 1.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.4ms)
+
+
+Started GET "/pages/shows" for ::1 at 2024-10-18 15:53:51 +0300
+Processing by PagesController#shows as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/shows.html.erb within layouts/application
+  Rendered pages/shows.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | GC: 0.0ms)
+Completed 200 OK in 73ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/authors" for ::1 at 2024-10-18 15:53:51 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.0ms)
+Completed 200 OK in 73ms (Views: 1.5ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/pages/popular" for ::1 at 2024-10-18 15:53:52 +0300
+Processing by PagesController#popular as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/popular.html.erb within layouts/application
+  Rendered pages/popular.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.0ms)
+Completed 200 OK in 73ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/account" for ::1 at 2024-10-18 15:53:53 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.1ms | GC: 0.0ms)
+Completed 200 OK in 72ms (Views: 1.3ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.1ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 15:58:59 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.1ms)
+Completed 200 OK in 73ms (Views: 1.5ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.1ms)
+
+
+Started GET "/pages/news" for ::1 at 2024-10-18 15:59:06 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | GC: 0.0ms)
+Completed 200 OK in 74ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/shows" for ::1 at 2024-10-18 15:59:10 +0300
+Processing by PagesController#shows as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/shows.html.erb within layouts/application
+  Rendered pages/shows.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.1ms | GC: 0.0ms)
+Completed 200 OK in 70ms (Views: 1.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/authors" for ::1 at 2024-10-18 15:59:13 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | GC: 0.2ms)
+Completed 200 OK in 71ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/pages/popular" for ::1 at 2024-10-18 15:59:16 +0300
+Processing by PagesController#popular as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/popular.html.erb within layouts/application
+  Rendered pages/popular.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | GC: 0.0ms)
+Completed 200 OK in 73ms (Views: 1.6ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/account" for ::1 at 2024-10-18 15:59:20 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.7ms | GC: 0.4ms)
+Completed 200 OK in 73ms (Views: 2.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.4ms)
+
+
+Started GET "/pages/popular" for ::1 at 2024-10-18 15:59:24 +0300
+Processing by PagesController#popular as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/popular.html.erb within layouts/application
+  Rendered pages/popular.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.1ms | GC: 0.0ms)
+Completed 200 OK in 73ms (Views: 1.5ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/authors" for ::1 at 2024-10-18 15:59:25 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | GC: 0.0ms)
+Completed 200 OK in 73ms (Views: 1.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/authors" for ::1 at 2024-10-18 16:02:57 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | GC: 0.0ms)
+Completed 200 OK in 76ms (Views: 1.6ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/assets/application-2fe65660.css" for ::1 at 2024-10-18 16:02:57 +0300
+Started GET "/pages/authors" for ::1 at 2024-10-18 16:08:17 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.9ms | GC: 0.0ms)
+Completed 200 OK in 81ms (Views: 2.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/assets/application-19995a0f.css" for ::1 at 2024-10-18 16:08:17 +0300
+Started GET "/pages/authors" for ::1 at 2024-10-18 16:09:09 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | GC: 0.0ms)
+Completed 200 OK in 93ms (Views: 1.6ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 5.2ms)
+
+
+Started GET "/assets/application-fefbb5f2.css" for ::1 at 2024-10-18 16:09:09 +0300
+Started GET "/pages/authors" for ::1 at 2024-10-18 16:09:19 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | GC: 0.0ms)
+Completed 200 OK in 80ms (Views: 2.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.7ms)
+
+
+Started GET "/pages/authors" for ::1 at 2024-10-18 16:10:14 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | GC: 0.2ms)
+Completed 200 OK in 81ms (Views: 2.1ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.4ms)
+
+
+Started GET "/assets/application-b39a5fbd.css" for ::1 at 2024-10-18 16:10:14 +0300
+Started GET "/pages/authors" for ::1 at 2024-10-18 16:10:33 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | GC: 0.0ms)
+Completed 200 OK in 77ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.3ms)
+
+
+Started GET "/assets/application-e69e0036.css" for ::1 at 2024-10-18 16:10:33 +0300
+Started GET "/pages/authors" for ::1 at 2024-10-18 16:10:55 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | GC: 0.0ms)
+Completed 200 OK in 74ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.7ms)
+
+
+Started GET "/assets/application-57609984.css" for ::1 at 2024-10-18 16:10:55 +0300
+Started GET "/pages/account" for ::1 at 2024-10-18 16:12:41 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | GC: 0.0ms)
+Completed 200 OK in 78ms (Views: 2.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/assets/application-ac1e0145.css" for ::1 at 2024-10-18 16:12:41 +0300
+Started GET "/pages/account" for ::1 at 2024-10-18 16:13:02 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 2.9ms | GC: 2.6ms)
+  Rendered layout layouts/application.html.erb (Duration: 4.7ms | GC: 2.6ms)
+Completed 200 OK in 82ms (Views: 5.2ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 2.6ms)
+
+
+Started GET "/assets/application-d443b457.css" for ::1 at 2024-10-18 16:13:02 +0300
+Started GET "/pages/account" for ::1 at 2024-10-18 16:13:09 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | GC: 0.0ms)
+Completed 200 OK in 78ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 1.0ms)
+
+
+Started GET "/assets/application-b29ae0bd.css" for ::1 at 2024-10-18 16:13:09 +0300
+Started GET "/pages/account" for ::1 at 2024-10-18 16:13:19 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.7ms | GC: 0.0ms)
+Completed 200 OK in 76ms (Views: 2.2ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.4ms)
+
+
+Started GET "/assets/application-56c764a2.css" for ::1 at 2024-10-18 16:13:19 +0300
+Started GET "/pages/account" for ::1 at 2024-10-18 16:13:38 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | GC: 0.0ms)
+Completed 200 OK in 78ms (Views: 1.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/assets/application-01ae91ae.css" for ::1 at 2024-10-18 16:13:38 +0300
+Started GET "/pages/account" for ::1 at 2024-10-18 16:14:22 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | GC: 0.0ms)
+Completed 200 OK in 74ms (Views: 2.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/pages/account" for ::1 at 2024-10-18 16:14:58 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | GC: 0.0ms)
+Completed 200 OK in 79ms (Views: 1.6ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/assets/application-4ee79f73.css" for ::1 at 2024-10-18 16:14:58 +0300
+Started GET "/pages/account" for ::1 at 2024-10-18 16:15:43 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | GC: 0.0ms)
+Completed 200 OK in 74ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/account" for ::1 at 2024-10-18 16:35:22 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | GC: 0.0ms)
+Completed 200 OK in 79ms (Views: 1.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 2.3ms)
+
+
+Started GET "/assets/application-5f8a53a5.css" for ::1 at 2024-10-18 16:35:22 +0300
+Unable to resolve '/fonts/SONGER_SE_Regular.otf' for missing asset 'fonts/SONGER_SE_Regular.otf' in application.css
+Started GET "/pages/account" for ::1 at 2024-10-18 16:36:02 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.4ms | GC: 0.0ms)
+Completed 200 OK in 89ms (Views: 2.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.7ms)
+
+
+Started GET "/assets/application-79b878d9.css" for ::1 at 2024-10-18 16:36:02 +0300
+Unable to resolve '/fonts/SONGER_SE_Regular.otf' for missing asset 'fonts/SONGER_SE_Regular.otf' in application.css
+Started GET "/pages/popular" for ::1 at 2024-10-18 16:36:04 +0300
+Processing by PagesController#popular as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/popular.html.erb within layouts/application
+  Rendered pages/popular.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.7ms | GC: 0.2ms)
+Completed 200 OK in 84ms (Views: 2.1ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/pages/authors" for ::1 at 2024-10-18 16:36:06 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.7ms | GC: 0.0ms)
+Completed 200 OK in 77ms (Views: 2.1ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/shows" for ::1 at 2024-10-18 16:36:06 +0300
+Processing by PagesController#shows as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/shows.html.erb within layouts/application
+  Rendered pages/shows.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.7ms | GC: 0.0ms)
+Completed 200 OK in 89ms (Views: 2.2ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.1ms)
+
+
+Started GET "/pages/news" for ::1 at 2024-10-18 16:36:07 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | GC: 0.0ms)
+Completed 200 OK in 92ms (Views: 1.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/news" for ::1 at 2024-10-18 16:40:29 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | GC: 0.0ms)
+Completed 200 OK in 79ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/assets/application-d3e94fc9.css" for ::1 at 2024-10-18 16:40:30 +0300
+Unable to resolve 'fonts/SONGER_SE_Regular.otf' for missing asset 'fonts/SONGER_SE_Regular.otf' in application.css
+Started GET "/pages/news" for ::1 at 2024-10-18 16:42:47 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | GC: 0.0ms)
+Completed 200 OK in 88ms (Views: 1.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.6ms)
+
+
+Started GET "/assets/application-0ec08ee7.css" for ::1 at 2024-10-18 16:42:47 +0300
+Unable to resolve 'fonts/SONGER_SE_Regular.otf' for missing asset 'fonts/SONGER_SE_Regular.otf' in application.css
+Started GET "/pages/news" for ::1 at 2024-10-18 16:43:38 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.7ms | GC: 0.0ms)
+Completed 200 OK in 86ms (Views: 2.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/assets/application-fd751924.css" for ::1 at 2024-10-18 16:43:38 +0300
+Unable to resolve 'app/assets/fonts/SONGER_SE_Regular.otf' for missing asset 'app/assets/fonts/SONGER_SE_Regular.otf' in application.css
+Started GET "/pages/news" for ::1 at 2024-10-18 16:44:05 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | GC: 0.0ms)
+Completed 200 OK in 83ms (Views: 2.3ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/assets/application-3909ea47.css" for ::1 at 2024-10-18 16:44:05 +0300
+Unable to resolve 'app/assets/fonts/SONGER_SE_Regular.otf' for missing asset 'app/assets/fonts/SONGER_SE_Regular.otf' in application.css
+Started GET "/assets/app/assets/fonts/SONGER_SE_Regular.otf" for ::1 at 2024-10-18 16:44:05 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 16:48:33 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | GC: 0.0ms)
+Completed 200 OK in 79ms (Views: 1.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 1.0ms)
+
+
+Started GET "/assets/application-1c53ad17.css" for ::1 at 2024-10-18 16:48:33 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 16:49:07 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | GC: 0.0ms)
+Completed 200 OK in 75ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.4ms)
+
+
+Started GET "/assets/application-c7639cdc.css" for ::1 at 2024-10-18 16:49:07 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 16:49:25 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.0ms | GC: 0.0ms)
+Completed 200 OK in 91ms (Views: 2.3ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.1ms)
+
+
+Started GET "/assets/application-13330859.css" for ::1 at 2024-10-18 16:49:25 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 16:49:38 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | GC: 0.0ms)
+Completed 200 OK in 81ms (Views: 2.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/assets/application-61504305.css" for ::1 at 2024-10-18 16:49:38 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 16:50:14 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | GC: 0.0ms)
+Completed 200 OK in 75ms (Views: 1.6ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/assets/application-79bd7891.css" for ::1 at 2024-10-18 16:50:14 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 16:50:24 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | GC: 0.0ms)
+Completed 200 OK in 85ms (Views: 1.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/assets/application-5ea16bc0.css" for ::1 at 2024-10-18 16:50:24 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 16:53:17 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.5ms | GC: 0.0ms)
+Completed 200 OK in 84ms (Views: 2.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 2.0ms)
+
+
+Started GET "/assets/application-7dd55f75.css" for ::1 at 2024-10-18 16:53:17 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 16:53:36 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.9ms | GC: 0.0ms)
+Completed 200 OK in 81ms (Views: 2.3ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.6ms)
+
+
+Started GET "/assets/application-1dbfed81.css" for ::1 at 2024-10-18 16:53:36 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 16:54:07 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.0ms | GC: 0.0ms)
+Completed 200 OK in 80ms (Views: 2.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/assets/application-160df54e.css" for ::1 at 2024-10-18 16:54:07 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 16:56:07 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.0ms | GC: 0.0ms)
+Completed 200 OK in 83ms (Views: 2.3ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/assets/application-4d69941d.css" for ::1 at 2024-10-18 16:56:07 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 16:57:12 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | GC: 0.0ms)
+Completed 200 OK in 82ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.6ms)
+
+
+Started GET "/assets/application-20250eab.css" for ::1 at 2024-10-18 16:57:12 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 16:57:49 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | GC: 0.0ms)
+Completed 200 OK in 82ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/assets/application-ecfb0e3b.css" for ::1 at 2024-10-18 16:57:49 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 16:58:14 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | GC: 0.0ms)
+Completed 200 OK in 86ms (Views: 1.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/assets/application-4a2e3fce.css" for ::1 at 2024-10-18 16:58:14 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 16:58:33 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | GC: 0.0ms)
+Completed 200 OK in 81ms (Views: 1.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 1.1ms)
+
+
+Started GET "/assets/application-3e074105.css" for ::1 at 2024-10-18 16:58:33 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 16:59:00 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | GC: 0.0ms)
+Completed 200 OK in 84ms (Views: 1.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.4ms)
+
+
+Started GET "/assets/application-98885e73.css" for ::1 at 2024-10-18 16:59:00 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 16:59:12 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | GC: 0.0ms)
+Completed 200 OK in 90ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/news" for ::1 at 2024-10-18 16:59:25 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | GC: 0.1ms)
+Completed 200 OK in 84ms (Views: 1.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/assets/application-c0b6b085.css" for ::1 at 2024-10-18 16:59:25 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 16:59:41 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | GC: 0.0ms)
+Completed 200 OK in 83ms (Views: 2.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.9ms)
+
+
+Started GET "/assets/application-90a55ac8.css" for ::1 at 2024-10-18 16:59:42 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 17:00:16 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.1ms | GC: 0.0ms)
+Completed 200 OK in 85ms (Views: 2.5ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/assets/application-4dcede01.css" for ::1 at 2024-10-18 17:00:16 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 17:00:30 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.1ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | GC: 0.0ms)
+Completed 200 OK in 85ms (Views: 1.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/assets/application-0f6be67e.css" for ::1 at 2024-10-18 17:00:30 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 17:06:52 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 4.9ms | GC: 0.0ms)
+Completed 200 OK in 90ms (Views: 6.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 17:06:54 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.7ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 0.9ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 75ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (The asset 'app/assets/images/tarantino.jpg' was not found in the load path.)
+Caused by: Propshaft::MissingAssetError (The asset 'app/assets/images/tarantino.jpg' was not found in the load path.)
+
+Information for: ActionView::Template::Error (The asset 'app/assets/images/tarantino.jpg' was not found in the load path.):
+    1: <h1>Медиа сервис для создания
+    2: и чтения текстовых сериалов</h1>
+    3: <%= image_tag("app/assets/images/tarantino.jpg") %>
+    4: <p>Ну тут короче главная заглавная такая.</p>
+  
+app/views/pages/index.html.erb:3
+
+Information for cause: Propshaft::MissingAssetError (The asset 'app/assets/images/tarantino.jpg' was not found in the load path.):
+  
+app/views/pages/index.html.erb:3
+Started GET "/" for ::1 at 2024-10-18 17:07:53 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.6ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 0.8ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 67ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `image_link_tag' for an instance of #<Class:0x000000012a5a1a60>)
+Caused by: NoMethodError (undefined method `image_link_tag' for an instance of #<Class:0x000000012a5a1a60>)
+
+Information for: ActionView::Template::Error (undefined method `image_link_tag' for an instance of #<Class:0x000000012a5a1a60>):
+    1: <h1>Медиа сервис для создания
+    2: и чтения текстовых сериалов</h1>
+    3: <%= image_link_tag("app/assets/images/tarantino.jpg") %>
+    4: <p>Ну тут короче главная заглавная такая.</p>
+  
+app/views/pages/index.html.erb:3
+
+Information for cause: NoMethodError (undefined method `image_link_tag' for an instance of #<Class:0x000000012a5a1a60>):
+  
+app/views/pages/index.html.erb:3
+Started GET "/" for ::1 at 2024-10-18 17:09:06 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.6ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 0.9ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 75ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (The asset 'app/assets/images/tarantino.jpg' was not found in the load path.)
+Caused by: Propshaft::MissingAssetError (The asset 'app/assets/images/tarantino.jpg' was not found in the load path.)
+
+Information for: ActionView::Template::Error (The asset 'app/assets/images/tarantino.jpg' was not found in the load path.):
+    1: <h1>Медиа сервис для создания
+    2: и чтения текстовых сериалов</h1>
+    3: <%= image_tag("app/assets/images/tarantino.jpg") %>
+    4: <p>Ну тут короче главная заглавная такая.</p>
+  
+app/views/pages/index.html.erb:3
+
+Information for cause: Propshaft::MissingAssetError (The asset 'app/assets/images/tarantino.jpg' was not found in the load path.):
+  
+app/views/pages/index.html.erb:3
+Started GET "/" for ::1 at 2024-10-18 17:10:32 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.7ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 0.9ms | GC: 0.0ms)
+Completed 500 Internal Server Error in 71ms (ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+  
+ActionView::Template::Error (The asset 'app/assets/images/tarantino.jpg' was not found in the load path.)
+Caused by: Propshaft::MissingAssetError (The asset 'app/assets/images/tarantino.jpg' was not found in the load path.)
+
+Information for: ActionView::Template::Error (The asset 'app/assets/images/tarantino.jpg' was not found in the load path.):
+    1: <h1>Медиа сервис для создания
+    2: и чтения текстовых сериалов</h1>
+    3: <%= image_tag("app/assets/images/tarantino.jpg") %>
+    4: <p>Ну тут короче главная заглавная такая.</p>
+  
+app/views/pages/index.html.erb:3
+
+Information for cause: Propshaft::MissingAssetError (The asset 'app/assets/images/tarantino.jpg' was not found in the load path.):
+  
+app/views/pages/index.html.erb:3
+Started GET "/" for ::1 at 2024-10-18 17:12:49 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 1.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.9ms | GC: 0.0ms)
+Completed 200 OK in 71ms (Views: 4.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.3ms)
+
+
+Started GET "/assets/tarantino-f43f1729.jpg" for ::1 at 2024-10-18 17:12:49 +0300
+Started GET "/" for ::1 at 2024-10-18 17:14:31 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 1.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.2ms | GC: 0.3ms)
+Completed 200 OK in 81ms (Views: 5.3ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 2.9ms)
+
+
+Started GET "/assets/application-2029b63b.css" for ::1 at 2024-10-18 17:14:31 +0300
+Started GET "/" for ::1 at 2024-10-18 17:14:40 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 1.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.6ms | GC: 0.0ms)
+Completed 200 OK in 77ms (Views: 2.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/assets/application-d4bb225c.css" for ::1 at 2024-10-18 17:14:40 +0300
+Started GET "/" for ::1 at 2024-10-18 17:14:56 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 1.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.6ms | GC: 0.0ms)
+Completed 200 OK in 79ms (Views: 3.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/assets/application-1b7cae6f.css" for ::1 at 2024-10-18 17:14:56 +0300
+Started GET "/pages/news" for ::1 at 2024-10-18 17:15:00 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | GC: 0.0ms)
+Completed 200 OK in 76ms (Views: 1.8ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/shows" for ::1 at 2024-10-18 17:15:01 +0300
+Processing by PagesController#shows as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/shows.html.erb within layouts/application
+  Rendered pages/shows.html.erb within layouts/application (Duration: 0.5ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.6ms | GC: 0.6ms)
+Completed 200 OK in 81ms (Views: 3.2ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.6ms)
+
+
+Started GET "/pages/authors" for ::1 at 2024-10-18 17:15:02 +0300
+Processing by PagesController#authors as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/authors.html.erb within layouts/application
+  Rendered pages/authors.html.erb within layouts/application (Duration: 0.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | GC: 0.0ms)
+Completed 200 OK in 77ms (Views: 2.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/popular" for ::1 at 2024-10-18 17:15:02 +0300
+Processing by PagesController#popular as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/popular.html.erb within layouts/application
+  Rendered pages/popular.html.erb within layouts/application (Duration: 0.4ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | GC: 0.0ms)
+Completed 200 OK in 76ms (Views: 1.9ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/pages/account" for ::1 at 2024-10-18 17:15:03 +0300
+Processing by PagesController#account as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/account.html.erb within layouts/application
+  Rendered pages/account.html.erb within layouts/application (Duration: 0.3ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | GC: 0.0ms)
+Completed 200 OK in 78ms (Views: 2.1ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.5ms)
+
+
+Started GET "/pages/news" for ::1 at 2024-10-18 17:15:05 +0300
+Processing by PagesController#news as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/news.html.erb within layouts/application
+  Rendered pages/news.html.erb within layouts/application (Duration: 0.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | GC: 0.0ms)
+Completed 200 OK in 72ms (Views: 1.5ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 17:15:10 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.7ms | GC: 0.0ms)
+Completed 200 OK in 78ms (Views: 2.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 17:20:18 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 1.3ms | GC: 0.2ms)
+  Rendered layout layouts/application.html.erb (Duration: 3.3ms | GC: 0.2ms)
+Completed 200 OK in 82ms (Views: 3.7ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.3ms)
+
+
+Started GET "/assets/application-72eace9c.css" for ::1 at 2024-10-18 17:20:18 +0300
+Started GET "/" for ::1 at 2024-10-18 17:20:19 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.7ms | GC: 0.2ms)
+Completed 200 OK in 77ms (Views: 2.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.2ms)
+
+
+Started GET "/" for ::1 at 2024-10-18 17:20:35 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.8ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 2.1ms | GC: 0.0ms)
+Completed 200 OK in 80ms (Views: 2.4ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.8ms)
+
+
+Started GET "/assets/application-24603085.css" for ::1 at 2024-10-18 17:20:35 +0300
+Started GET "/" for ::1 at 2024-10-18 17:20:36 +0300
+Processing by PagesController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (Duration: 0.2ms | GC: 0.0ms)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | GC: 0.0ms)
+Completed 200 OK in 75ms (Views: 2.0ms | ActiveRecord: 0.0ms (0 queries, 0 cached) | GC: 0.0ms)
+
+
